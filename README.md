@@ -1,16 +1,19 @@
-### Hi there 👋
+# Emil Thorsplass // Web Developer
 
-<!--
-**emitho/emitho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image](images/Screen%20Shot%202023-06-07%20at%2016.29.20.png)
 
-Here are some ideas to get you started:
+Passion for good design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tech stack
+
+- Javascript
+- CSS
+- HTML
+- Wordpress
+
+## Contact
+
+Follow me on [Twitter](www.twitter.com/SovereignHRZN) or drop me an
+[email](mailto:hello@sovereignhorizon.com)
+
