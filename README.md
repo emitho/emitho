@@ -12,8 +12,12 @@ Passion for good design.
 - HTML
 - Wordpress
 
+## Portfolio
+
+[Web Development Portfolio site](https://emitho-portfolio.netlify.app/)
+
 ## Contact
 
-Follow me on [Twitter](www.twitter.com/SovereignHRZN) or drop me an
+Follow me on [Twitter](https://www.twitter.com/SovereignHRZN) or drop me an
 [email](mailto:hello@sovereignhorizon.com)
 
