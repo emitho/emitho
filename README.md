@@ -7,6 +7,7 @@ Passion for good design.
 
 ## Tech stack
 
+- React
 - Javascript
 - CSS
 - HTML
